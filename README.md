@@ -39,6 +39,8 @@ Features:
 
   
   ## Screenshots
+![Screenshot_20221214_034630](https://user-images.githubusercontent.com/105617274/207710594-ff5e0f8a-7aa5-41fd-a6c1-9edf5bb0ab3a.png)
+![Screenshot_20221214_034556](https://user-images.githubusercontent.com/105617274/207710619-efd60027-47a0-45eb-a28d-c6b283470632.png)
 
 
 
