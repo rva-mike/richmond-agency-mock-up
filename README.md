@@ -35,7 +35,7 @@ Features:
 
   ## Link 
   
-  Demo Link : https://rva-mike.github.io/bootstrap-studio/](https://rva-mike.github.io/richmond-agency-mock-up/
+  Demo Link: https://rva-mike.github.io/richmond-agency-mock-up/
 
   
   ## Screenshots
