@@ -4183,7 +4183,7 @@ a.item-image-c:hover img {
   right: 0;
   bottom: 0;
   height: 0%;
-  z-index: 2;
+  z-index: 0;
   background: #8b8b8b;
   transition: 0.3s;
   transition-timing-function: cubic-bezier(0.25, 0.75, 0.2, 1);
