@@ -6819,6 +6819,28 @@ body.scrolled .hero-item-b .hero-footer {
 
 @media screen and (max-width: 400px) {
   .work-projects {
-    font-size: large !important;
+    padding-top: 300px;
+  }
+
+  .item-image-e .item-img::before {
+    content: '';
+    position: absolute;
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 0%;
+    z-index: 0;
+    background: #8b8b8b;
+    transition: 0.3s;
+    transition-timing-function: cubic-bezier(0.25, 0.75, 0.2, 1);
+    
+  }
+
+  .desc .text-shadow .rellax {
+    transform: none !important;
   }
 }
+
+
+
