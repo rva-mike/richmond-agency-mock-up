@@ -6819,7 +6819,7 @@ body.scrolled .hero-item-b .hero-footer {
 
 @media screen and (max-width: 400px) {
   .work-projects {
-    padding-top: 300px;
+    padding-top: 700px;
   }
 
   .item-image-e .item-img::before {
@@ -6840,6 +6840,16 @@ body.scrolled .hero-item-b .hero-footer {
   .desc .text-shadow .rellax {
     transform: none !important;
   }
+
+  .display-3 {
+    font-size: 3em;
+  }
+
+  .item-feature-c .item-body h4 {
+    font-size: 3rem;
+
+  }
+
 }
 
 
