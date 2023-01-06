@@ -3739,7 +3739,7 @@ textarea.form-control-b {
   object-fit: cover;
 }
 
-.item-feature-c .item-img.anim-hover {
+/* .item-feature-c .item-img.anim-hover {
   opacity: 0;
   visibility: hidden;
   --marg: -2rem;
@@ -3749,7 +3749,7 @@ textarea.form-control-b {
   bottom: var(--marg, 0);
   transition: 0.3s;
   transform: scale(0.9);
-}
+} */
 
 .item-feature-c .icon {
   margin-bottom: 0.5rem;
@@ -4253,13 +4253,13 @@ a.item-image-e:hover {
   color: currentColor;
 }
 
-a.item-image-e:hover .item-img {
+/* a.item-image-e:hover .item-img {
   transform: scale(0.95) rotateY(15deg);
 }
 
 a.item-image-e:hover .item-body {
   transform: scale(0.95) rotateY(-15deg);
-}
+} */
 
 .item-image-f {
   color: currentColor;
