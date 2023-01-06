@@ -1,7 +1,7 @@
 # Richmond Agency Mock-Up
 
   ## Description
-This is a responsive, onepage template I created for a fictituos agency. Built on top of Bootstrap, it is compatible with mobile devices and uses the latest web technologies for a beautiful and flexible design result. This could be used as a marketing website page to present your company, brand, products, services or works.
+This is a responsive, onepage template design created for a fictituos agency. Built on top of Bootstrap, it is compatible with mobile devices and uses the latest web technologies for a unique and flexible design result. This could be used as a marketing website page to present your company, brand, products, services or works.
 
 Features:
 
